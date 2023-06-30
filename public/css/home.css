@@ -55,6 +55,10 @@
 
 }
 
+.home__main__section--product-image {
+    width: 100%;
+}
+
 .home__main__section--product-sticker {
     position: absolute;
     top: 0px;
